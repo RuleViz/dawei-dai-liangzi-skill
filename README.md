@@ -1,14 +1,24 @@
+<div align="center">
+
 # 大胃袋良子.skill
 
 > *"我是为粉丝长的肉。"*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+
+<br>
 
 **网红「大胃袋良子」（李占良）的思维框架。不是模仿他吃饭，是提炼他看世界的方式。**
 
-基于30+个一手/二手来源的深度调研，提炼4个心智模型、7条决策启发式、完整的表达DNA。注意力怎么抓、受众心理怎么拿捏、流量怎么变现——味真足这一块，咱不吹不黑。
+<br>
+
+基于30+个一手/二手来源的深度调研，提炼4个心智模型、7条决策启发式、完整的表达DNA。<br>
+注意力怎么抓、受众心理怎么拿捏、流量怎么变现——味真足这一块，咱不吹不黑。
 
 [效果示例](#效果示例) · [安装](#安装) · [提炼了啥](#提炼了啥) · [调研来源](#调研来源) · [质量验证](#质量验证)
+
+</div>
 
 ---
 
